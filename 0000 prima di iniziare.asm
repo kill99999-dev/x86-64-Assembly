@@ -8,6 +8,7 @@
 ; A breve svilupperò anche la versione .html con una guida più semplice da utilizzare e meglio strutturata.
 ;
 ; Per iniziare, seleziona il primo file (0001 sezioni.asm) qui a fianco.
+; Se non lo vedi premi il pulsante con la freccia denominato "Expand file tree" qui a fianco.
 ;
 ; All'inizio ti sembrerà difficile, ma non perdere le speranze!
 ; Una volta che ci prendi la mano, diventerà tutto molto più naturale.
