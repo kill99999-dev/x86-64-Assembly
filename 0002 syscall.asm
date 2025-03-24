@@ -24,5 +24,5 @@ mov eax syscall_num
 ;
 ; Tabella riassuntiva:
 ; Nome - Descrizione - File Descriptor
-; stdin -	Flusso per leggere i dati (input) - 0
+; stdin - Flusso per leggere i dati (input) - 0
 ; stdout - Flusso per scrivere i dati (output) - 1
