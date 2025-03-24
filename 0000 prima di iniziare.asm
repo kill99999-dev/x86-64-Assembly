@@ -8,6 +8,7 @@
 ; A breve svilupperò anche la versione .html con una guida più semplice da utilizzare e meglio strutturata.
 ;
 ; Per iniziare, seleziona il primo file (0001 sezioni.asm) qui a fianco.
+;
 ; All'inizio ti sembrerà difficile, ma non perdere le speranze!
 ; Una volta che ci prendi la mano, diventerà tutto molto più naturale.
 ; Grazie agli esempi e agli esercizi inclusi in questa guida, imparare l'Assembly sarà un vero gioco da ragazzi!
